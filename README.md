@@ -30,3 +30,6 @@ This project focuses on applying machine learning techniques, particularly Suppo
 ## Usage
 1. Clone this repository and add all files to your MATLAB path.
 2. Run **`main.m`** as the main file for executing the program.
+
+![SVM-GA](https://github.com/user-attachments/assets/f8a32d60-dadc-4435-913b-dd9dc520c812)
+
