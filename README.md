@@ -2,7 +2,7 @@
 
 
 ## Files and Structure
-This project focuses on applying machine learning techniques, particularly Support Vector Machine (SVM) regression, to data processing and analysis tasks. The project is organized into several phases, from data preparation and SVM training to objective function application and visualization. This project is a 99-grade assignment for the UESTC3036: Machine Learning and AI course (2023-2024).
+This project focuses on applying machine learning techniques, particularly Support Vector Machine (SVM) regression, to data processing and analysis tasks. It is organized into several phases, from data preparation and SVM training to objective function application and visualization. This project is a 99-grade assignment for the UESTC3036: Machine Learning and AI course (2023-2024).
 
 ### Data Preparation
 - **`data_process.m`**: Script for data preprocessing.
