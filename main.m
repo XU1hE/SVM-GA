@@ -1,6 +1,6 @@
 % UESTC3036: Machine Learning and AI (2023-2024) Course Project
-% Author: Yihe Xu, Glasgow College, UESTC
-% GUID: 2720719x
+% Author: Sherry Xu, Glasgow College, UESTC
+% GUID: xxxxxxx
 % Date: Dec. 18, 2023
 
 % This is the main file to run the program. For proper applicaiton
